@@ -109,8 +109,8 @@
       "compression_type": "Zlib",
       "is_enabled": true,
       "manually_specified_assets": {
-        "asset_paths": ["Content/Mods/ModMeta/HUDCoreModMeta"],
-        "tree_paths": ["Content/Mods/_NadzMods/HUDCore/", "/Content/Mods/HUDs/"]
+        "asset_paths": ["Content/Mods/ModMeta/HUDCoreModMeta", "Content/UI/Widgets/StateMachine/ActionPhase/WBP_UI_SM_ActionPhaseMenu", "Content/UI/Widgets/StateMachine/WBP_UI_SM_ActionPhase"],
+        "tree_paths": ["Content/Mods/_NadzMods/HUDCore/"]
       }
     }
   ]

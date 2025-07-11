@@ -9081,3 +9081,6 @@ Plugins/UnrealAutoMod/Resources/UnrealAutoMod/HUDCore/settings.json
 Binaries/Win64/UE4Editor-Starbreeze.dll
 
 !Plugins/UnrealAutoMod/Content/**
+!Plugins/UnrealAutoMod/Resources/**
+Plugins/UnrealAutoMod/Resources/UnrealAutoMod/Logs/
+Plugins/UnrealAutoMod/Resources/UnrealAutoMod/working_dir/
