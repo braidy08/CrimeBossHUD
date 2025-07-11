@@ -1,7 +1,7 @@
 # **HUDCore**
 ## **The foundation for custom HUDs in PAYDAY 3**
 
-Welcome to the official wiki for HUDCore - a modular dependency framework for custom HUDs in PAYDAY 3. Whether you're a player customizing your in-game experience or a modder building the next great HUD, HUDCore provides the tools and structure you need.
+HUDCore is a modular dependency framework for custom HUDs in PAYDAY 3. Whether you're a player customizing your in-game experience or a modder building the next great HUD, HUDCore provides the tools and structure you need.
 
 ## **What is HUDCore?**
 HUDCore is a base mod that enables the loading, management, and development of custom HUDs in PAYDAY 3. It acts as a unified backend for HUD mods, handling the heavy lifting so creators can focus on design - and players can install and use HUDs effortlessly.
