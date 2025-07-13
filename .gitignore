@@ -9084,3 +9084,6 @@ Binaries/Win64/UE4Editor-Starbreeze.dll
 !Plugins/UnrealAutoMod/Resources/**
 Plugins/UnrealAutoMod/Resources/UnrealAutoMod/Logs/
 Plugins/UnrealAutoMod/Resources/UnrealAutoMod/working_dir/
+Plugins/UnrealAutoMod/Resources/UnrealAutoMod/TempoCLI-4.1.1/working_dir/
+Plugins/UnrealAutoMod/Resources/UnrealAutoMod/TempoCLI-4.1.1/Logs/
+Plugins/UnrealAutoMod/Resources/UnrealAutoMod/TempoCLI-4.1.1/Scripts/
