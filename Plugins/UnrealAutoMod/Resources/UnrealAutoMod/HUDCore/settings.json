@@ -87,6 +87,22 @@
       "pak_chunk_num": null,
       "pak_dir_structure": "~mods",
       "use_mod_name_dir_name_override": true
+    },
+    {
+      "compression_type": "Zlib",
+      "file_includes": {
+        "asset_paths": ["/Content/Mods/HUDs/Data/DA_BetaHUD"],
+        "tree_paths": ["/Content/Mods/HUDs/BetaHUD/"],
+        "unreal_collections": []
+      },
+      "is_enabled": true,
+      "mod_name": "BetaHUD_P",
+      "mod_name_dir_name_override": null,
+      "mod_name_dir_type": "Mods",
+      "packing_type": "repak",
+      "pak_chunk_num": null,
+      "pak_dir_structure": "~mods",
+      "use_mod_name_dir_name_override": true
     }
   ],
   "packaging_uproject_name": {
