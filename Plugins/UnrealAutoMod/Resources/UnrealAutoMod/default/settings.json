@@ -112,11 +112,11 @@
     "override_automatic_version_finding": false,
     "override_default_repak_path": false,
     "repak_path_override": "F:/PAYDAYMODS/Repak/repak.exe",
-    "repak_version": "V8A"
+    "repak_version": null
   },
   "retoc_info": {
     "override_default_retoc_path": false,
-    "retoc_path_override": "F:/PAYDAYMODS/Repak/repak.exe",
+    "retoc_path_override": null
   },
   "window_management_events": [
     {
