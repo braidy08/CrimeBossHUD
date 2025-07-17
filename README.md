@@ -25,13 +25,7 @@ Want to create your own HUD? HUDCore makes it simple:
 * Define your main HUD widget and settings your HUDCore data asset.
 * Let HUDCore handle loading, saving, and exposing your HUD’s options to players.
 
-Get started here: Project Setup
-
-## **Documentation**
-* Installing HUDCore
-* Creating a Custom HUD
-  * Project Setup
-  * Registering HUD Settings
+Get started here: [Quick Start](https://github.com/NadzW/PD3-HUDCore/wiki/Quick-Start)
 
 ***
 _Note: HUDCore is a required dependency for all HUDs built with it. Make sure it’s installed and up to date before using any HUDCore-compatible HUDs._
