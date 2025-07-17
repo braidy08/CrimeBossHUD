@@ -6682,22 +6682,6 @@ Content/UI/Textures/HeistIcons/SS_UI_HeistImage.uasset
 Content/UI/Textures/HeistIcons/SS_UI_HeistSelection_HeistBG.uasset
 Content/UI/Textures/HeistIcons/SS_UI_PreplanningAssets.uasset
 Content/UI/Textures/HeistIcons/SS_UI_TutorialButton.uasset
-Content/UI/Textures/HUDIcons/SS_UI_buffs.uasset
-Content/UI/Textures/HUDIcons/SS_UI_Calls.uasset
-Content/UI/Textures/HUDIcons/SS_UI_ChallengeCategory.uasset
-Content/UI/Textures/HUDIcons/SS_UI_DownCounter.uasset
-Content/UI/Textures/HUDIcons/SS_UI_hitindicators_armor.uasset
-Content/UI/Textures/HUDIcons/SS_UI_HUDIcons.uasset
-Content/UI/Textures/HUDIcons/SS_UI_HUDPD2Icons.uasset
-Content/UI/Textures/HUDIcons/SS_UI_HUDWaypoints_atlas.uasset
-Content/UI/Textures/HUDIcons/SS_UI_Item_atlas.uasset
-Content/UI/Textures/HUDIcons/SS_UI_objectives.uasset
-Content/UI/Textures/HUDIcons/SS_UI_pickups.uasset
-Content/UI/Textures/HUDIcons/SS_UI_PlayerDefeatStates.uasset
-Content/UI/Textures/HUDIcons/SS_UI_Security.uasset
-Content/UI/Textures/HUDIcons/UI_HUD_Direction_Detection.uasset
-Content/UI/Textures/HUDIcons/UI_HUD_hitdirection.uasset
-Content/UI/Textures/HUDIcons/UI_HUD_Item_atlas_02.uasset
 Content/UI/Textures/InventoryIcons/Atlas_Skill_Icons.uasset
 Content/UI/Textures/InventoryIcons/Atlas_Skill_Icons_2.uasset
 Content/UI/Textures/InventoryIcons/Gloves/SS_UI_Inventory_Gloves.uasset
@@ -9087,3 +9071,4 @@ Plugins/UnrealAutoMod/Resources/UnrealAutoMod/working_dir/
 Plugins/UnrealAutoMod/Resources/UnrealAutoMod/TempoCLI-4.1.1/working_dir/
 Plugins/UnrealAutoMod/Resources/UnrealAutoMod/TempoCLI-4.1.1/Logs/
 Plugins/UnrealAutoMod/Resources/UnrealAutoMod/TempoCLI-4.1.1/Scripts/
+Plugins/UnrealAutoMod/Resources/UnrealAutoMod/HUDCore/
