@@ -9059,7 +9059,6 @@ Binaries/Win64/EOSSDK-Win64-Shipping.dll
 StagingTemp
 zModLoader_P.pak
 Plugins/UnrealAutoMod/Resources/UnrealAutoMod/MHSM/settings.json
-Plugins/UnrealAutoMod/Resources/UnrealAutoMod/HUDCore/settings.json
 Plugins/UnrealAutoMod/Resources/UnrealAutoMod/default/settings.json
 Plugins/UnrealAutoMod/Resources/UnrealAutoMod/HUDCore/settings.json
 Binaries/Win64/UE4Editor-Starbreeze.dll
@@ -9072,3 +9071,6 @@ Plugins/UnrealAutoMod/Resources/UnrealAutoMod/TempoCLI-4.1.1/working_dir/
 Plugins/UnrealAutoMod/Resources/UnrealAutoMod/TempoCLI-4.1.1/Logs/
 Plugins/UnrealAutoMod/Resources/UnrealAutoMod/TempoCLI-4.1.1/Scripts/
 Plugins/UnrealAutoMod/Resources/UnrealAutoMod/HUDCore/
+
+Content/Mods/HUDs/FlamingHUD
+Content/Mods/HUDs/PD2HUD

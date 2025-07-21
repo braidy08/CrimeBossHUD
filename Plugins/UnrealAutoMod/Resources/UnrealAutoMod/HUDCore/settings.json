@@ -103,6 +103,38 @@
       "pak_chunk_num": null,
       "pak_dir_structure": "~mods",
       "use_mod_name_dir_name_override": true
+    },
+    {
+      "compression_type": "Zlib",
+      "file_includes": {
+        "asset_paths": ["/Content/Mods/HUDs/Data/DA_PD2HUD"],
+        "tree_paths": ["/Content/Mods/HUDs/PD2HUD/"],
+        "unreal_collections": []
+      },
+      "is_enabled": true,
+      "mod_name": "PD2HUD_P",
+      "mod_name_dir_name_override": null,
+      "mod_name_dir_type": "Mods",
+      "packing_type": "repak",
+      "pak_chunk_num": null,
+      "pak_dir_structure": "~mods",
+      "use_mod_name_dir_name_override": true
+    },
+    {
+      "compression_type": "Zlib",
+      "file_includes": {
+        "asset_paths": ["/Content/Mods/HUDs/Data/DA_FlamingHUD"],
+        "tree_paths": ["/Content/Mods/HUDs/FlamingHUD/"],
+        "unreal_collections": []
+      },
+      "is_enabled": true,
+      "mod_name": "FlamingHUD_P",
+      "mod_name_dir_name_override": null,
+      "mod_name_dir_type": "Mods",
+      "packing_type": "repak",
+      "pak_chunk_num": null,
+      "pak_dir_structure": "~mods",
+      "use_mod_name_dir_name_override": true
     }
   ],
   "packaging_uproject_name": {
