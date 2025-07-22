@@ -59,7 +59,7 @@
     {
       "compression_type": "Zlib",
       "file_includes": {
-        "asset_paths": ["Content/Mods/ModMeta/HUDCoreModMeta", "Content/UI/Widgets/StateMachine/ActionPhase/WBP_UI_SM_ActionPhaseMenu", "Content/UI/Widgets/StateMachine/WBP_UI_SM_ActionPhase"],
+        "asset_paths": ["Content/Mods/ModMeta/HUDCoreModMeta", "Content/UI/Widgets/StateMachine/ActionPhase/WBP_UI_SM_ActionPhaseMenu", "Content/UI/Widgets/StateMachine/WBP_UI_SM_ActionPhase", "Content/UI/Widgets/HUD/WBP_UI_Widget_PlayingHUD"],
         "tree_paths": ["Content/Mods/_NadzMods/HUDCore/"],
         "unreal_collections": []
       },
@@ -111,7 +111,7 @@
         "tree_paths": ["/Content/Mods/HUDs/PD2HUD/"],
         "unreal_collections": []
       },
-      "is_enabled": true,
+      "is_enabled": false,
       "mod_name": "PD2HUD_P",
       "mod_name_dir_name_override": null,
       "mod_name_dir_type": "Mods",
@@ -127,7 +127,7 @@
         "tree_paths": ["/Content/Mods/HUDs/FlamingHUD/"],
         "unreal_collections": []
       },
-      "is_enabled": true,
+      "is_enabled": false,
       "mod_name": "FlamingHUD_P",
       "mod_name_dir_name_override": null,
       "mod_name_dir_type": "Mods",
