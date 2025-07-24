@@ -59,7 +59,7 @@
     {
       "compression_type": "Zlib",
       "file_includes": {
-        "asset_paths": ["Content/UI/Widgets/StateMachine/ActionPhase/WBP_UI_SM_ActionPhaseMenu", "Content/UI/Widgets/StateMachine/WBP_UI_SM_ActionPhase", "Content/UI/Widgets/HUD/WBP_UI_Widget_PlayingHUD"],
+        "asset_paths": ["Content/UI/Widgets/StateMachine/ActionPhase/WBP_UI_SM_ActionPhaseMenu", "Content/UI/Widgets/StateMachine/WBP_UI_SM_ActionPhase", "Content/UI/Widgets/HUD/WBP_UI_Widget_PlayingHUD", "Content/Mods/ModMeta/HUDCoreModMeta"],
         "tree_paths": ["Content/Mods/_NadzMods/HUDCore/"],
         "unreal_collections": []
       },
