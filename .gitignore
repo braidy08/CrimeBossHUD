@@ -9072,5 +9072,12 @@ Plugins/UnrealAutoMod/Resources/UnrealAutoMod/TempoCLI-4.1.1/Logs/
 Plugins/UnrealAutoMod/Resources/UnrealAutoMod/TempoCLI-4.1.1/Scripts/
 Plugins/UnrealAutoMod/Resources/UnrealAutoMod/HUDCore/
 
+Plugins\AssetGenerator
+Plugins\AssetDumper
+
 Content/Mods/HUDs/FlamingHUD
+Content/Mods/HUDs/Data/DA_FlamingHUD
 Content/Mods/HUDs/PD2HUD
+Content/Mods/HUDs/Data/DA_PD2HUD
+Content/Mods/HUDs/PDTHHUD
+Content/Mods/HUDs/Data/DA_PDTHHUD

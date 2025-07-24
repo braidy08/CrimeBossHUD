@@ -59,7 +59,7 @@
     {
       "compression_type": "Zlib",
       "file_includes": {
-        "asset_paths": ["Content/Mods/ModMeta/HUDCoreModMeta", "Content/UI/Widgets/StateMachine/ActionPhase/WBP_UI_SM_ActionPhaseMenu", "Content/UI/Widgets/StateMachine/WBP_UI_SM_ActionPhase", "Content/UI/Widgets/HUD/WBP_UI_Widget_PlayingHUD"],
+        "asset_paths": ["Content/UI/Widgets/StateMachine/ActionPhase/WBP_UI_SM_ActionPhaseMenu", "Content/UI/Widgets/StateMachine/WBP_UI_SM_ActionPhase", "Content/UI/Widgets/HUD/WBP_UI_Widget_PlayingHUD"],
         "tree_paths": ["Content/Mods/_NadzMods/HUDCore/"],
         "unreal_collections": []
       },
@@ -129,6 +129,22 @@
       },
       "is_enabled": false,
       "mod_name": "FlamingHUD_P",
+      "mod_name_dir_name_override": null,
+      "mod_name_dir_type": "Mods",
+      "packing_type": "repak",
+      "pak_chunk_num": null,
+      "pak_dir_structure": "~mods",
+      "use_mod_name_dir_name_override": true
+    },
+    {
+      "compression_type": "Zlib",
+      "file_includes": {
+        "asset_paths": ["/Content/Mods/HUDs/Data/DA_PDTHHUD"],
+        "tree_paths": ["/Content/Mods/HUDs/PDTHHUD/"],
+        "unreal_collections": []
+      },
+      "is_enabled": true,
+      "mod_name": "PDTHHUD_P",
       "mod_name_dir_name_override": null,
       "mod_name_dir_type": "Mods",
       "packing_type": "repak",
